@@ -1,10 +1,10 @@
 {
- "version": "0.3.1",
+ "version": "0.3.2",
  "paquets": [
   {
    "nom": "jeu.pck",
-   "taille": 11604704,
-   "sha256": "2cdf5845a4fd703024fe63f3d2be593e75d5358f5ad1115b434809fde16a2dc2"
+   "taille": 11648304,
+   "sha256": "60af75c4c2908a16066425fe450485e3f1367b72044120d20b90685b0af6fa0e"
   },
   {
    "nom": "monde.pck",
@@ -15,8 +15,8 @@
  "lanceur": {
   "version": "0.2.0",
   "fichier": "Eclipse.exe",
-  "taille": 85206704,
-  "sha256": "4a93add0b1604d6e20231482d4b3f4621bd30460770e287435648c3cc275cd6d"
+  "taille": 85206720,
+  "sha256": "3e5c0c0566f1f52345ce605e08001852beb5fa02323d8b8b5a79a9c5fe67eafd"
  },
  "externes": [
   {
