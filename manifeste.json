@@ -1,15 +1,114 @@
 {
- "version": "0.1.0",
+ "version": "0.2.0",
  "paquets": [
   {
    "nom": "jeu.pck",
-   "taille": 1947760,
-   "sha256": "e8dfb5552f93cfeba10a3da990e00d3954937406b6c3f8ec52711794877eb8cf"
+   "taille": 1953664,
+   "sha256": "b6218897d6c114c7b7156092f7e22342d3ba9dccbffcac9af216faccf323b1d3"
   },
   {
    "nom": "monde.pck",
-   "taille": 35315232,
-   "sha256": "ed11c1749381666010d7795b301fdf31bed38388df89bcefb3691a5e02293bb9"
+   "taille": 35316144,
+   "sha256": "d45a877b6187dc0144ce84f15bc8336dbda602672709fe6a450960eb45037521"
+  }
+ ],
+ "lanceur": {
+  "version": "0.2.0",
+  "fichier": "Eclipse.exe",
+  "taille": 85206368,
+  "sha256": "c58a37bf40597444346fc740600983a40c10db0293f05291af472c02ca2ec6c3"
+ },
+ "externes": [
+  {
+   "nom": "0a88b746-c9c0-45a1-8f62-5e0645dba167.glb",
+   "titre": "Petits monstres",
+   "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3Kgp4d5PP4RcAol1OhfTKe6fnHp/0a88b746-c9c0-45a1-8f62-5e0645dba167.glb",
+   "taille": 1056870,
+   "sha256": "73c9464eafad5bbc65aec9a754fcda7cc25a477f4f36fe0577298d4a1da8412f"
+  },
+  {
+   "nom": "23c6af8a-7e03-454e-808a-514dce88f77a.glb",
+   "titre": "Animations des personnages",
+   "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3Kgp4d5PP4RcAol1OhfTKe6fnHp/23c6af8a-7e03-454e-808a-514dce88f77a.glb",
+   "taille": 6488808,
+   "sha256": "79dd2b8bae362c0b542ec71b07217f096c9a90e0112ebe4c9a4eb35057f2c13f"
+  },
+  {
+   "nom": "2918fecd-057c-4003-a7dc-6d8b6ad741ac.glb",
+   "titre": "Personnages, habitants et monstres",
+   "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3Kgp4d5PP4RcAol1OhfTKe6fnHp/2918fecd-057c-4003-a7dc-6d8b6ad741ac.glb",
+   "taille": 30848113,
+   "sha256": "1495c3a51f588eff81dbe6879090f2495123c38dc32354e60b092050dd9c40f1"
+  },
+  {
+   "nom": "394e0caf-3827-4215-9619-9987f4b7a0d6.glb",
+   "titre": "Équipement",
+   "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3Kgp4d5PP4RcAol1OhfTKe6fnHp/394e0caf-3827-4215-9619-9987f4b7a0d6.glb",
+   "taille": 2087653,
+   "sha256": "41a997c8a18dee9ec944d9d78575ae26adb7d1e5712a329c99418ce007b7bb5d"
+  },
+  {
+   "nom": "808a2599-e889-4577-996a-3dc20648135a.glb",
+   "titre": "Bêtes",
+   "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3Kgp4d5PP4RcAol1OhfTKe6fnHp/808a2599-e889-4577-996a-3dc20648135a.glb",
+   "taille": 1089069,
+   "sha256": "0d13f12f1ad8fcca3ef8c7ef8c48ad59a341ce1690512081f25afb4a9de2d4b9"
+  },
+  {
+   "nom": "858cee89-5e7e-431c-9a16-521d1f2edeb7.glb",
+   "titre": "Armes et armures",
+   "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3Kgp4d5PP4RcAol1OhfTKe6fnHp/858cee89-5e7e-431c-9a16-521d1f2edeb7.glb",
+   "taille": 6124469,
+   "sha256": "369eac37335deed556fa50060ad3ca4accda57386c1762d6ed063d7e92d0ef0e"
+  },
+  {
+   "nom": "884b5a7f-0deb-4330-bad2-5a6f7f982dab.glb",
+   "titre": "Forge",
+   "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3Kgp4d5PP4RcAol1OhfTKe6fnHp/884b5a7f-0deb-4330-bad2-5a6f7f982dab.glb",
+   "taille": 668599,
+   "sha256": "4f0485fb40d0b4e79f921e355b9fd515ae6ed9d6920ee492154d4c7eabf29a95"
+  },
+  {
+   "nom": "93f6d4cb-dba2-447e-83a8-a7d06c199f18.glb",
+   "titre": "Armures",
+   "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3Kgp4d5PP4RcAol1OhfTKe6fnHp/93f6d4cb-dba2-447e-83a8-a7d06c199f18.glb",
+   "taille": 2653227,
+   "sha256": "eda5af18e6e3873b87437cc590b96d3ba3b23926f2b99b86d85c51bb06e406a4"
+  },
+  {
+   "nom": "a2d19897-082b-4675-9f49-d8340c2facda.jpg",
+   "titre": "Textures du sol et des pierres",
+   "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3Kgp4d5PP4RcAol1OhfTKe6fnHp/a2d19897-082b-4675-9f49-d8340c2facda.jpg",
+   "taille": 2076972,
+   "sha256": "96bf6b1723022a0d697c1a6f63ba14e49580b8d604c13931300d43a8114d219b"
+  },
+  {
+   "nom": "c017ce82-56fe-4fbe-873d-57ff1f990d14.glb",
+   "titre": "Arbres et rochers",
+   "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3Kgp4d5PP4RcAol1OhfTKe6fnHp/c017ce82-56fe-4fbe-873d-57ff1f990d14.glb",
+   "taille": 1388258,
+   "sha256": "34ac460bbcd722c61ea99ef40d447262e09efee51792cb49c21008afb7d4f516"
+  },
+  {
+   "nom": "ccf9398e-e76b-4b9d-8626-71b05af33d24.jpg",
+   "titre": "Textures des régions",
+   "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3Kgp4d5PP4RcAol1OhfTKe6fnHp/ccf9398e-e76b-4b9d-8626-71b05af33d24.jpg",
+   "taille": 1716633,
+   "sha256": "44fba94f71015c9e7266b38d88ea047021141591abc04e1c8c04230ff8ca26c5"
+  },
+  {
+   "nom": "e4ade1db-fb48-4255-a84a-082c0a818c12.glb",
+   "titre": "Filons",
+   "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3Kgp4d5PP4RcAol1OhfTKe6fnHp/e4ade1db-fb48-4255-a84a-082c0a818c12.glb",
+   "taille": 706463,
+   "sha256": "16698e7a67f7dda8423bf60aa0892397cbc5bf0c6d69bc64217fa16f935e63b6"
+  },
+  {
+   "nom": "efaa49bd-aa2e-4bee-a777-b6e20e18765e.glb",
+   "titre": "Boss",
+   "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3Kgp4d5PP4RcAol1OhfTKe6fnHp/efaa49bd-aa2e-4bee-a777-b6e20e18765e.glb",
+   "taille": 14326101,
+   "sha256": "1d97c43fea139ba5d80b6f08b1bbfaf9ec5748c34df40f1068f7e95250ef66f9"
   }
  ]
 }
