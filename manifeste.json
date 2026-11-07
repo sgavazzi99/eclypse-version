@@ -1,15 +1,15 @@
 {
- "version": "0.2.0",
+ "version": "0.2.1",
  "paquets": [
   {
    "nom": "jeu.pck",
-   "taille": 1953664,
-   "sha256": "b6218897d6c114c7b7156092f7e22342d3ba9dccbffcac9af216faccf323b1d3"
+   "taille": 1957216,
+   "sha256": "d371d3d7b0f9549363516215a094cbcc5976dc1e31860b17ee6792934894f541"
   },
   {
    "nom": "monde.pck",
-   "taille": 35316144,
-   "sha256": "d45a877b6187dc0144ce84f15bc8336dbda602672709fe6a450960eb45037521"
+   "taille": 35294464,
+   "sha256": "be96dd6f270a5b4dae1d754511571bf28941f36b259f6bd99decc40de64f0fbd"
   }
  ],
  "lanceur": {
