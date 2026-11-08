@@ -1,15 +1,15 @@
 {
- "version": "0.4.2",
+ "version": "0.4.3",
  "paquets": [
   {
    "nom": "jeu.pck",
-   "taille": 12144912,
-   "sha256": "cf51b1c95d9d7134d2b1426319d187c0d21973eba44345b2624a5a0ae7c6dadb"
+   "taille": 12175856,
+   "sha256": "5bf946a61d910250fc68c8d1e8dec53c0a8d11708214d5b074d256a61d32efd4"
   },
   {
    "nom": "monde.pck",
-   "taille": 44474016,
-   "sha256": "39315dab3ad0e0cb716a41769998d0bcba74dd2b63f1cf94a6dcd7ea62e9458a"
+   "taille": 44691696,
+   "sha256": "f7591182ff05f54a7e2fe9e40a9dcdc1cd53b5e51e38d360cad20f0c457e86d2"
   }
  ],
  "lanceur": {
@@ -27,11 +27,11 @@
    "sha256": "73c9464eafad5bbc65aec9a754fcda7cc25a477f4f36fe0577298d4a1da8412f"
   },
   {
-   "nom": "43f1c7ce-0782-4adb-9d71-9ed0b47c0c91.glb",
+   "nom": "cfb48a36-e3ff-4dba-8fe6-49ce5573467f.glb",
    "titre": "Animations des personnages",
-   "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3Kgp4d5PP4RcAol1OhfTKe6fnHp/43f1c7ce-0782-4adb-9d71-9ed0b47c0c91.glb",
-   "taille": 6496988,
-   "sha256": "9b4ed36a788d74d2b8a837a304310cf34c35941e065a23a05f0cb39106d6b0f2"
+   "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3Kgp4d5PP4RcAol1OhfTKe6fnHp/cfb48a36-e3ff-4dba-8fe6-49ce5573467f.glb",
+   "taille": 6512908,
+   "sha256": "9c26d724956e7e73d503615479f1a99171290fe22376f7e86d9792357f058a1e"
   },
   {
    "nom": "2918fecd-057c-4003-a7dc-6d8b6ad741ac.glb",
@@ -111,11 +111,11 @@
    "sha256": "1d97c43fea139ba5d80b6f08b1bbfaf9ec5748c34df40f1068f7e95250ef66f9"
   },
   {
-   "nom": "aecf0e59-a8b4-415b-9e8f-9481f6f2f1d2.glb",
+   "nom": "e258e7b3-0b9f-4dcb-b34c-5b587e4254eb.glb",
    "titre": "Château de Val d'Or",
-   "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3Kgp4d5PP4RcAol1OhfTKe6fnHp/aecf0e59-a8b4-415b-9e8f-9481f6f2f1d2.glb",
-   "taille": 2470956,
-   "sha256": "1e9e52e3d543af1196a41d4085a58d8f02c042d92c6fd2dfff284457eb85135e"
+   "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3Kgp4d5PP4RcAol1OhfTKe6fnHp/e258e7b3-0b9f-4dcb-b34c-5b587e4254eb.glb",
+   "taille": 2509746,
+   "sha256": "274a34be3275585ce35e8a7c1fcbe229f2c019028c12868b85f05369ce7f39d4"
   },
   {
    "nom": "25e8e562-8a94-4ceb-9c17-dd120a13b2d9.glb",
