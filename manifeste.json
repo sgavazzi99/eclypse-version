@@ -1,22 +1,22 @@
 {
- "version": "0.4.1",
+ "version": "0.4.2",
  "paquets": [
   {
    "nom": "jeu.pck",
-   "taille": 12133488,
-   "sha256": "2765561ea2ff42bce8aae52989ad36e2a84085872681c289d007b64b2d287564"
+   "taille": 12144912,
+   "sha256": "cf51b1c95d9d7134d2b1426319d187c0d21973eba44345b2624a5a0ae7c6dadb"
   },
   {
    "nom": "monde.pck",
-   "taille": 45259760,
-   "sha256": "fd51f124cb971e28a2b0691f9b0e5600e1d0a4ecd15760ae7bf28c113cb9ea89"
+   "taille": 44474016,
+   "sha256": "39315dab3ad0e0cb716a41769998d0bcba74dd2b63f1cf94a6dcd7ea62e9458a"
   }
  ],
  "lanceur": {
   "version": "0.2.0",
   "fichier": "Eclipse.exe",
-  "taille": 85206720,
-  "sha256": "3e5c0c0566f1f52345ce605e08001852beb5fa02323d8b8b5a79a9c5fe67eafd"
+  "taille": 85206704,
+  "sha256": "92f8b6e94b47332f1d119dc184e65b35176f00ae1e945c57f266c695b0f78e8b"
  },
  "externes": [
   {
@@ -116,6 +116,20 @@
    "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3Kgp4d5PP4RcAol1OhfTKe6fnHp/aecf0e59-a8b4-415b-9e8f-9481f6f2f1d2.glb",
    "taille": 2470956,
    "sha256": "1e9e52e3d543af1196a41d4085a58d8f02c042d92c6fd2dfff284457eb85135e"
+  },
+  {
+   "nom": "25e8e562-8a94-4ceb-9c17-dd120a13b2d9.glb",
+   "titre": "Nature (arbres, rochers, fleurs, herbes)",
+   "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3Kgp4d5PP4RcAol1OhfTKe6fnHp/25e8e562-8a94-4ceb-9c17-dd120a13b2d9.glb",
+   "taille": 16343869,
+   "sha256": "bca66f933bf53b4cd3971c0d6c6789e0580677e2fc6b0f573717b6d2c07b55ee"
+  },
+  {
+   "nom": "4a6f4974-c0eb-4f84-8b3e-77d118e05130.glb",
+   "titre": "Accessoires de la ville et des villages",
+   "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3Kgp4d5PP4RcAol1OhfTKe6fnHp/4a6f4974-c0eb-4f84-8b3e-77d118e05130.glb",
+   "taille": 7699533,
+   "sha256": "900f1014611fefb577b03ed4c77eaa9b7e7d911ed5a26253c5c8fb722d1ed309"
   }
  ]
 }
