@@ -1,10 +1,10 @@
 {
- "version": "0.4.0",
+ "version": "0.4.1",
  "paquets": [
   {
    "nom": "jeu.pck",
    "taille": 12133488,
-   "sha256": "0fee57bcc645013461c0f131c289f60f7c2d2efaaf5014f8187d8f8d322c9b57"
+   "sha256": "2765561ea2ff42bce8aae52989ad36e2a84085872681c289d007b64b2d287564"
   },
   {
    "nom": "monde.pck",
@@ -15,8 +15,8 @@
  "lanceur": {
   "version": "0.2.0",
   "fichier": "Eclipse.exe",
-  "taille": 85206704,
-  "sha256": "4a93add0b1604d6e20231482d4b3f4621bd30460770e287435648c3cc275cd6d"
+  "taille": 85206720,
+  "sha256": "3e5c0c0566f1f52345ce605e08001852beb5fa02323d8b8b5a79a9c5fe67eafd"
  },
  "externes": [
   {
@@ -27,11 +27,11 @@
    "sha256": "73c9464eafad5bbc65aec9a754fcda7cc25a477f4f36fe0577298d4a1da8412f"
   },
   {
-   "nom": "23c6af8a-7e03-454e-808a-514dce88f77a.glb",
+   "nom": "43f1c7ce-0782-4adb-9d71-9ed0b47c0c91.glb",
    "titre": "Animations des personnages",
-   "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3Kgp4d5PP4RcAol1OhfTKe6fnHp/23c6af8a-7e03-454e-808a-514dce88f77a.glb",
-   "taille": 6488808,
-   "sha256": "79dd2b8bae362c0b542ec71b07217f096c9a90e0112ebe4c9a4eb35057f2c13f"
+   "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3Kgp4d5PP4RcAol1OhfTKe6fnHp/43f1c7ce-0782-4adb-9d71-9ed0b47c0c91.glb",
+   "taille": 6496988,
+   "sha256": "9b4ed36a788d74d2b8a837a304310cf34c35941e065a23a05f0cb39106d6b0f2"
   },
   {
    "nom": "2918fecd-057c-4003-a7dc-6d8b6ad741ac.glb",
