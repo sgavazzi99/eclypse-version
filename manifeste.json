@@ -1,22 +1,22 @@
 {
- "version": "0.3.2",
+ "version": "0.4.0",
  "paquets": [
   {
    "nom": "jeu.pck",
-   "taille": 11648304,
-   "sha256": "60af75c4c2908a16066425fe450485e3f1367b72044120d20b90685b0af6fa0e"
+   "taille": 12133488,
+   "sha256": "0fee57bcc645013461c0f131c289f60f7c2d2efaaf5014f8187d8f8d322c9b57"
   },
   {
    "nom": "monde.pck",
-   "taille": 35304592,
-   "sha256": "e2a20793e06e914407c2582cd5e7252aa1b40c51b75896af4dc510f210ca0c6c"
+   "taille": 45259760,
+   "sha256": "fd51f124cb971e28a2b0691f9b0e5600e1d0a4ecd15760ae7bf28c113cb9ea89"
   }
  ],
  "lanceur": {
   "version": "0.2.0",
   "fichier": "Eclipse.exe",
-  "taille": 85206720,
-  "sha256": "3e5c0c0566f1f52345ce605e08001852beb5fa02323d8b8b5a79a9c5fe67eafd"
+  "taille": 85206704,
+  "sha256": "4a93add0b1604d6e20231482d4b3f4621bd30460770e287435648c3cc275cd6d"
  },
  "externes": [
   {
@@ -109,6 +109,13 @@
    "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3Kgp4d5PP4RcAol1OhfTKe6fnHp/efaa49bd-aa2e-4bee-a777-b6e20e18765e.glb",
    "taille": 14326101,
    "sha256": "1d97c43fea139ba5d80b6f08b1bbfaf9ec5748c34df40f1068f7e95250ef66f9"
+  },
+  {
+   "nom": "aecf0e59-a8b4-415b-9e8f-9481f6f2f1d2.glb",
+   "titre": "Château de Val d'Or",
+   "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3Kgp4d5PP4RcAol1OhfTKe6fnHp/aecf0e59-a8b4-415b-9e8f-9481f6f2f1d2.glb",
+   "taille": 2470956,
+   "sha256": "1e9e52e3d543af1196a41d4085a58d8f02c042d92c6fd2dfff284457eb85135e"
   }
  ]
 }
