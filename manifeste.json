@@ -1,22 +1,22 @@
 {
- "version": "0.4.3",
+ "version": "0.4.4",
  "paquets": [
   {
    "nom": "jeu.pck",
-   "taille": 12175856,
-   "sha256": "5bf946a61d910250fc68c8d1e8dec53c0a8d11708214d5b074d256a61d32efd4"
+   "taille": 12176912,
+   "sha256": "d2d75d279c5187c48150c3bef0f50358b7e76de9f2bee5bf76d682ba7eee81c6"
   },
   {
    "nom": "monde.pck",
-   "taille": 44691696,
-   "sha256": "f7591182ff05f54a7e2fe9e40a9dcdc1cd53b5e51e38d360cad20f0c457e86d2"
+   "taille": 44567488,
+   "sha256": "189e009319af5a9d0e498b602fd15b7367e689c7c3df18ceddbcc3f29045832e"
   }
  ],
  "lanceur": {
   "version": "0.2.0",
   "fichier": "Eclipse.exe",
   "taille": 85206704,
-  "sha256": "92f8b6e94b47332f1d119dc184e65b35176f00ae1e945c57f266c695b0f78e8b"
+  "sha256": "4a93add0b1604d6e20231482d4b3f4621bd30460770e287435648c3cc275cd6d"
  },
  "externes": [
   {
@@ -27,11 +27,11 @@
    "sha256": "73c9464eafad5bbc65aec9a754fcda7cc25a477f4f36fe0577298d4a1da8412f"
   },
   {
-   "nom": "cfb48a36-e3ff-4dba-8fe6-49ce5573467f.glb",
+   "nom": "ad7e6751-eeb9-40bc-bf90-b08dd4a49804.glb",
    "titre": "Animations des personnages",
-   "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3Kgp4d5PP4RcAol1OhfTKe6fnHp/cfb48a36-e3ff-4dba-8fe6-49ce5573467f.glb",
-   "taille": 6512908,
-   "sha256": "9c26d724956e7e73d503615479f1a99171290fe22376f7e86d9792357f058a1e"
+   "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3Kgp4d5PP4RcAol1OhfTKe6fnHp/ad7e6751-eeb9-40bc-bf90-b08dd4a49804.glb",
+   "taille": 6507964,
+   "sha256": "1c82f847aea0cd6def6d0bbde7da0350901dc2778cf24122ce79816230233f80"
   },
   {
    "nom": "2918fecd-057c-4003-a7dc-6d8b6ad741ac.glb",
@@ -130,6 +130,13 @@
    "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3Kgp4d5PP4RcAol1OhfTKe6fnHp/4a6f4974-c0eb-4f84-8b3e-77d118e05130.glb",
    "taille": 7699533,
    "sha256": "900f1014611fefb577b03ed4c77eaa9b7e7d911ed5a26253c5c8fb722d1ed309"
+  },
+  {
+   "nom": "5d76fa36-3665-4be2-9dba-34a8d71df7b5.glb",
+   "titre": "Lampadaires et lanternes",
+   "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3Kgp4d5PP4RcAol1OhfTKe6fnHp/5d76fa36-3665-4be2-9dba-34a8d71df7b5.glb",
+   "taille": 93684,
+   "sha256": "c958c1f1680838ccc5f5d1f4145f0001f3c92b40cde1ee76bd43336a055f4d9d"
   }
  ]
 }
