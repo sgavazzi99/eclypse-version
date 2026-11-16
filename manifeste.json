@@ -9,57 +9,68 @@
   {
    "nom": "monde.pck",
    "taille": 23418320,
-   "sha256": "2a3cbe107d96b9c61fa901ab99fdb781772feee3f01a70a231784f4335af20df"
+   "sha256": "2a3cbe107d96b9c61fa901ab99fdb781772feee3f01a70a231784f4335af20df",
+   "source": "75eb447f544bf5411949492f454903d3636140674c40227c01e7f8404f5b315f"
   },
   {
    "nom": "monde_0.pck",
    "taille": 45248,
-   "sha256": "41b785d0c4294629a3bb6ef989fc22c5c96df5dc1b2c32dc77acf5ec7cc4b77e"
+   "sha256": "41b785d0c4294629a3bb6ef989fc22c5c96df5dc1b2c32dc77acf5ec7cc4b77e",
+   "source": "dbc01e87bb10e4b8c089fd3d2ae3c2edd86590e87baca2f3ec4f159e4a09e60e"
   },
   {
    "nom": "monde_1.pck",
    "taille": 5802640,
-   "sha256": "70683974e681c3b3971284c4768620cde5a0f7f0aef533d3141c3e04c3ae7b58"
+   "sha256": "70683974e681c3b3971284c4768620cde5a0f7f0aef533d3141c3e04c3ae7b58",
+   "source": "7e5de4a3754c24c9f303edb36cb5c96b74703c68b392419765e18595802bbb5a"
   },
   {
    "nom": "monde_2.pck",
    "taille": 24827168,
-   "sha256": "a40aa4d88937bc872e9e8b7a9bd0d5c125c3423f058e1d50e943634b8c23ea28"
+   "sha256": "a40aa4d88937bc872e9e8b7a9bd0d5c125c3423f058e1d50e943634b8c23ea28",
+   "source": "e2234d19b9bbf8d7e1fa2f7eda144c1d98ce1f5387936feda2856963939ed599"
   },
   {
    "nom": "monde_3.pck",
    "taille": 20869472,
-   "sha256": "8abafab21840cade73f33097267eebf822f9a33de73a9fe83ba74e175fe75b30"
+   "sha256": "8abafab21840cade73f33097267eebf822f9a33de73a9fe83ba74e175fe75b30",
+   "source": "a2e0517320e6e0f159ab74c3350dcf51ed78f57cb64e460998bd84349aa11681"
   },
   {
    "nom": "monde_4.pck",
    "taille": 36943568,
-   "sha256": "76b230c2c5931ed3f68bcb61742e7a253a6ad274cbb10b64110a7e20f19cfbbe"
+   "sha256": "76b230c2c5931ed3f68bcb61742e7a253a6ad274cbb10b64110a7e20f19cfbbe",
+   "source": "5059338c3a0b06a917d5a5ccb9d95a43beaf124c535d3c895d28379a371d59a0"
   },
   {
    "nom": "monde_5.pck",
    "taille": 48566704,
-   "sha256": "5e2ae56fe363dd1c80572e425ca4cd4563f2f7b46c6c4e3bfdfb4f6c211d6201"
+   "sha256": "5e2ae56fe363dd1c80572e425ca4cd4563f2f7b46c6c4e3bfdfb4f6c211d6201",
+   "source": "29ce83d074c1355e953fcd74aea4b9798a4f4f6dbbafe0a9e17919b9ba3eafd4"
   },
   {
    "nom": "monde_6.pck",
    "taille": 25765264,
-   "sha256": "e51a2f0005dc6f9bef6397b895ba5f446489b290d915e23ccd8de9aac53581cf"
+   "sha256": "e51a2f0005dc6f9bef6397b895ba5f446489b290d915e23ccd8de9aac53581cf",
+   "source": "8b30fa104cbc6e54bece96a0677604629880618bea308243b894f1ec815f7bd3"
   },
   {
    "nom": "monde_7.pck",
    "taille": 25688928,
-   "sha256": "d07300dfe128c51d508c30b39adc6d49f02bc32e9cb9699eeca6b5a264c79115"
+   "sha256": "d07300dfe128c51d508c30b39adc6d49f02bc32e9cb9699eeca6b5a264c79115",
+   "source": "8c0cd7091486e4f13a72363c59f0fbe1f4a8af1b2a26609e68d2f7665a449266"
   },
   {
    "nom": "monde_8.pck",
    "taille": 17819680,
-   "sha256": "ce307237987b3ab05685291f4bd84512140ea1f6cc654b000e78d92284ae260a"
+   "sha256": "ce307237987b3ab05685291f4bd84512140ea1f6cc654b000e78d92284ae260a",
+   "source": "705ff2a856dbbcf148652c873ecaed5c71d8d41410cec5f75d0ff44ebe9a6bc6"
   },
   {
    "nom": "monde_9.pck",
    "taille": 1613600,
-   "sha256": "8ad7c661a58af409e1dca97cf9ebb492d74b75fe678cc4a0aa5047b0ed1350f6"
+   "sha256": "8ad7c661a58af409e1dca97cf9ebb492d74b75fe678cc4a0aa5047b0ed1350f6",
+   "source": "af4d0c4286f24adea1e224056e84b9723b82c97e4ecd8fcaac97a03bfb0322a4"
   }
  ],
  "lanceur": {
