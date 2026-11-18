@@ -1,10 +1,10 @@
 {
- "version": "0.6.11",
+ "version": "0.6.12",
  "paquets": [
   {
    "nom": "jeu.pck",
-   "taille": 14774816,
-   "sha256": "f692fa011b959cfb64c2aa77b8213288b907ff475d48a80a17a3d0471234a2f2"
+   "taille": 14807696,
+   "sha256": "2379be77516b0d56ee7c712f9de4f801f9ed05b974c35c6587205ad5e1c501a2"
   },
   {
    "nom": "monde.pck",
